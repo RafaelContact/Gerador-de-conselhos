@@ -28,6 +28,8 @@
 .header .advice{
     color: var(--advice-dice-color);
     height: 45px;
+    font-size: 13px;
+    letter-spacing: 4px;
 }
 .conselho{
     font-size: 28px;
