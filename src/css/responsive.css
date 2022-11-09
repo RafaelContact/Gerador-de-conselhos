@@ -1,0 +1,24 @@
+@media(max-width: 768px){
+
+    .card{
+        max-width: 340px;
+        border-radius: 8px;
+        padding: 0px 20px;
+    }
+    .header{
+        padding: 0;;
+        font-size: 13px;
+    }
+    .header .conselho{
+        font-size: 24px;
+        flex-grow: 1;
+        display: block;
+    }
+    .header .advice{
+        font-size: 10px;
+        margin: 10px;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+    }
+}

@@ -5,9 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="./src/css/reset.css">
     <link rel="stylesheet" href="./src/css/variables.css">
     <link rel="stylesheet" href="./src/css/style.css">
+    <link rel="stylesheet" href="./src/css/responsive.css">
     <title>Gerador de conselhos</title>
 </head>
 <body>
@@ -17,9 +18,10 @@
                 <p class="advice">ADVICE #117</p>
                 <q class="conselho">it is easy to sit up and take notice, what's difficult is getting up and taking action.</q>
             </header>
-            <section>
-                <img src="./src/images/pattern-divider-desktop.svg" alt="">
-            </section>
+            <picture>
+                <source media="(min-width: 768px)" srcset="./src/images/pattern-divider-desktop.svg">
+                <img src="./src/images/pattern-divider-mobile.svg" alt="">
+            </picture>
             <div class="play">
                 <img src="./src/images/icon-dice.svg" alt="">
             </div>
