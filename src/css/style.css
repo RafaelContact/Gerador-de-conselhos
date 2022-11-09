@@ -42,7 +42,15 @@
     width: 65px;
     height: 65px;
     border-radius: 50%;
+    border: 0px;
 }
-.play img{
-    transform: translateY(85%);
+.play button{
+    transform: translateY(95%);
+    border-style: none;
+    outline: none;
+    
+}
+.play:hover{
+    background-color: var(--hover-button);
+    box-shadow: 0px 0px 40px var(--hover-button);
 }

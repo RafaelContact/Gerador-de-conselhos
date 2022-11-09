@@ -10,7 +10,7 @@
     - [x] Qual o tamanho dos boxes 
           Conferir pelas imagens 
 
-    - [] O elemento vai diminuir de tamanho como ?
+    - [x] O elemento vai diminuir de tamanho como ?
         usando % ou vw e vh ?
 
 - [x] Criação da concepção dos containers
@@ -26,10 +26,12 @@
 
 # Construção do html
 
-- [] Organização das pastas
-- [] Criar um repositório remoto
+- [x] Organização das pastas
+- [x] Criar um repositório remoto
 # Construção do css
-
+- [x] css responsivo
+- [x] css para pagina de reset e página de variáveis
+- [x] style css
 
 # Criar o JS
 
