@@ -18,16 +18,29 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding: 0px 38px;
-    gap: 40px;
-    min-height: 250px;
+    padding: 0px 38px ;
+    /* gap: 40px; */
+    border-radius: 15px;
+}
+.header{
+    padding: 40px 0px;
 }
 .header .advice{
     color: var(--advice-dice-color);
+    height: 45px;
 }
 .conselho{
     font-size: 28px;
+    margin: 20px 0px;
 }
 .play{
     background-color: var(--advice-dice-color);
+    position: relative;
+    top: 35px;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+}
+.play img{
+    transform: translateY(85%);
 }
