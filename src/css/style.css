@@ -5,10 +5,22 @@
     height: 100vh;
     color: var(--text-color);
     font-family: 'Manrope', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 .card{
     background-color: var(--card-color);
+    display: flex;
+    flex-direction: column;
+    max-width: 540px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0px 38px;
+    gap: 40px;
+    min-height: 250px;
 }
 .header .advice{
     color: var(--advice-dice-color);
