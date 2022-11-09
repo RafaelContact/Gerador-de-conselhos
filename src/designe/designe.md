@@ -1,16 +1,3 @@
-# Analize
-
-- [] Tirar dúvidas
-- [] componentização
-
-# Construção das pastas
-
-- [] Baixar imagens do fontend mentor 
-# Construção do html
-
-# Construção do css
-
-
 ## Cores
 
 ```
@@ -37,21 +24,4 @@ The designs were created to the following widths:
 
 - Font size (quote): 28px
 
-# Criar o JS
-
-## Publicar solução 
-
-- [] Fazer gifs da sua funcionalidade
-- [] Fazer prints das telas 
-- [] Criar montagens com as telas printadas e elementos
-- [] Talvez criar vídeos com processo de construção com música
-- [] Publicar em um blog ou no yt falando sobre
-- [] Desenvolver um texto para falar do processo.
-
-- [] Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
-
-- [] Linkedin marcando a dev em dobro
-- [] Grupos do facebook
-- [] No grupo da rocket
-- [] No twiter 
-- [] No instagram 
+ 
