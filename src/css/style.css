@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+
+.container{
+    background-color: var(--background-color);
+    height: 100vh;
+    color: var(--text-color);
+    font-family: 'Manrope', sans-serif;
+
+}
+.card{
+    background-color: var(--card-color);
+}
+.header .advice{
+    color: var(--advice-dice-color);
+}
+.conselho{
+    font-size: 28px;
+}
+.play{
+    background-color: var(--advice-dice-color);
+}
