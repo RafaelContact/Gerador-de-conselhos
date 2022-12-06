@@ -5,16 +5,13 @@
   [link do site](https://rafinha-dev.github.io/Gerador-de-conselhos/)
   
  
-  
-  Esse foi um exercício do dev quest, onde comecei a lidar melhor com flex-box e imagens juntos.
+Ainda falta incluir o JS da página , porém o layout já está concluido. 
+
+Esse é um desafio do front end mentor
 
 ![](https://media4.giphy.com/media/dY0Il4pzYMe3HAlz2A/giphy.gif?cid=ecf05e47jr7li5l1e21qr3zt05zmnv3g0snse8ue3dq6xq5s&rid=giphy.gif&ct=g)
 
 </div>
-
-Ainda falta incluir o JS da página , porém o layout já está concluido. 
-
-Esse é um desafio do front end mentor
 
 ## Designe do site : 
 
