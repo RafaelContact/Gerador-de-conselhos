@@ -10,7 +10,6 @@
 
 const btn = document.getElementById('btn')
 
-
 const loadAdvice = async () => {
     const response = await fetch('https://api.adviceslip.com/advice')
 
@@ -27,8 +26,7 @@ const newAdvice = async ()=> {
     try{
         const results = await loadAdvice()
         advice.innerHTML = results.advice
-        adviceId.innerHTML = `advice ${results.id}`
-        console.log(results)
+        adviceId.innerHTML = `advice #${results.id}`
 
     }catch(boll){
         console.log(boll)

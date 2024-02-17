@@ -43,6 +43,10 @@
     height: 65px;
     border-radius: 50%;
     border: 0px;
+    cursor: pointer;
+}
+.advice{
+    text-transform: uppercase;
 }
 .play button{
     transform: translateY(95%);
