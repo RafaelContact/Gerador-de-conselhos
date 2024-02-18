@@ -1,28 +1,41 @@
 <div align="center">
-
-#  🚷🚷 Gerador de conselhos , projeto inacabado . 🚷🚷
-
-  [link do site](https://rafinha-dev.github.io/Gerador-de-conselhos/)
   
- 
-Ainda falta incluir o JS da página , porém o layout já está concluido. 
+# Desafio gerador de conselhos ✅
 
-Esse é um desafio do front end mentor
-
-![](https://media4.giphy.com/media/dY0Il4pzYMe3HAlz2A/giphy.gif?cid=ecf05e47jr7li5l1e21qr3zt05zmnv3g0snse8ue3dq6xq5s&rid=giphy.gif&ct=g)
-
+<a href="https://rafinha-dev.github.io/Desafios-JSintermediario-Devquest/" > 
+  <img 
+    src="https://github.com/rafinha-dev/NFT-card/blob/master/src/images/favicon-32x32.png">
+</a>
+  
+`clique na logo para abrir o site`  
+  
 </div>
 
-## Designe do site : 
+O desafio consiste em criar um layout com uma imagem conforme o front-end mentor, usar a APi para fazer a requisição dos conselhos e substituir o conteúdo da página randomicamente. Para que o desafio fosse completado foi necessário manipulação de DOM, capturar respostas de uma promisse e captura de dados do json.
 
-![](./src/designe/conselhos.gif)
+ ![](contents/readme.gif)
+
+## Tecnologias utilizadas
+- [x] HTML
+- [x] CSS
+- [x] JS
+- [x] fetch API
+- [x] JSON
+
+### Processo de construção
+
+Para a requisição foi usado o endpoint e as instruções do site abaixo: 
+
+![API conselhos](https://api.adviceslip.com/)
+
+![Front end mentor desafio](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub)
 
 
-## contato 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafinhadev/)
+# Contato 
+Para saber como foi o processo de criação visite meu blog ou meu linkedin, mais projetos como esse entre em contato e me acompanhe nas redes sociais. 
 
-
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafinhadev/)&nbsp;
-
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafinhadev/)&nbsp;
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafinhadev/)&nbsp; 📫
+<a href="https://dev.to/rafinhadev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Blog_dev.to-808080?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 [contactrodrigues21@gmail.com](mailto:contactrodrigues21@gmail.com) 📫
