@@ -30,6 +30,9 @@
     height: 45px;
     font-size: 13px;
     letter-spacing: 4px;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
 }
 .conselho{
     font-size: 28px;
@@ -44,9 +47,6 @@
     border-radius: 50%;
     border: 0px;
     cursor: pointer;
-}
-.advice{
-    text-transform: uppercase;
 }
 .play button{
     transform: translateY(95%);
