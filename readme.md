@@ -2,7 +2,7 @@
   
 # Desafio gerador de conselhos ✅
 
-<a href="https://rafinha-dev.github.io/Desafios-JSintermediario-Devquest/" > 
+<a href="https://rafinha-dev.github.io/Gerador-de-conselhos/" > 
   <img 
     src="https://github.com/rafinha-dev/NFT-card/blob/master/src/images/favicon-32x32.png">
 </a>
